@@ -1,6 +1,6 @@
-# Local Password Manager Version 2
+# Local Password Manager
 
-Local Password Manager Version 2 is a Python application built with tkinter. It allows you to generate and manage strong passwords for various websites and securely store them in a JSON file.
+Local Password Manager is a Python application built with tkinter. It allows you to generate and manage strong passwords for various websites and securely store them in a JSON file.
 
 ## Features
 
